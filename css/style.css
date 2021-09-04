@@ -9706,7 +9706,7 @@ Breadcrumbs
 .grid li {
   -webkit-transition: all 0.5s ease 0s;
   transition: all 0.5s ease 0s;
-  opacity: 0.8; }
+  opacity: 1.0; }
 
 .clients-carousel a {
   -webkit-transition: all 0.5s ease 0s;
